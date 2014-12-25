@@ -67,7 +67,7 @@ namespace MvcMainApplication.Tests
 
         [TestMethod]
         public void IndexTest()
-        {
+        {//ee
             Assert.Fail("Test failed!");
         }
 
