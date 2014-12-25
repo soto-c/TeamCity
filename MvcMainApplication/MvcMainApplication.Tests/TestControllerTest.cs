@@ -68,7 +68,7 @@ namespace MvcMainApplication.Tests
         [TestMethod]
         public void IndexTest()
         {//ee
-            //Assert.Fail("Test failed!");
+            //SotoComment
 
             Assert.IsTrue(1 == 1);
         }
