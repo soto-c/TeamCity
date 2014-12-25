@@ -16,10 +16,6 @@ namespace MvcMainApplication.Controllers
             return View();
         }
 
-    }}}}}
-
-
-{{
     }
 }
 
