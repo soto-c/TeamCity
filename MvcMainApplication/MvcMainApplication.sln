@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcMainApplication", "MvcMa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcMainApplication.Tests", "MvcMainApplication.Tests\MvcMainApplication.Tests.csproj", "{5BC12A74-25A4-4179-AF45-A7060DE28C20}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DepA", "DepA\DepA.csproj", "{21941EA0-8FCB-4D19-8F03-114C8DE35D2E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +21,10 @@ Global
 		{5BC12A74-25A4-4179-AF45-A7060DE28C20}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5BC12A74-25A4-4179-AF45-A7060DE28C20}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5BC12A74-25A4-4179-AF45-A7060DE28C20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21941EA0-8FCB-4D19-8F03-114C8DE35D2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21941EA0-8FCB-4D19-8F03-114C8DE35D2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21941EA0-8FCB-4D19-8F03-114C8DE35D2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21941EA0-8FCB-4D19-8F03-114C8DE35D2E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
