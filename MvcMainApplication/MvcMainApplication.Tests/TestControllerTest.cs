@@ -73,6 +73,8 @@ namespace MvcMainApplication.Tests
             // Merge 3..yyynnnn
             // oesdfuiiopsda
             // MyFeature1 implemented
+            // MyFeature2 implemented...i forgot something!!!
+            
             Assert.IsTrue(1 == 1);
         }
 
