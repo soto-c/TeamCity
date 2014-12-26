@@ -70,6 +70,7 @@ namespace MvcMainApplication.Tests
         {
             //Test new filter +:*(works ok) branch is identifiead as Soto
             //Add AutoMerge
+            // new Stuff
             Assert.IsTrue(1 == 1);
         }
 
