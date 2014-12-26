@@ -72,7 +72,7 @@ namespace MvcMainApplication.Tests
             //Add AutoMerge
             // new Stuff
             // new Stuff2
-            // new Stuff3
+            // new Stuff3  
             // new Stuff4
             Assert.IsTrue(1 == 1);
         }
