@@ -68,13 +68,8 @@ namespace MvcMainApplication.Tests
         [TestMethod]
         public void IndexTest()
         {
-            //Try to merge
-            // Try to merg 2
-            // Merge 3..yyynnnn
-            // oesdfuiiopsda
-            // MyFeature1 implemented
-            // MyFeature2 implemented...i forgot something!!!
-            // aAdd shit
+            //Test new filter +:*(works ok) branch is identifiead as Soto
+            //Add AutoMerge
             Assert.IsTrue(1 == 1);
         }
 
