@@ -70,6 +70,7 @@ namespace MvcMainApplication.Tests
         {
             //Try to merge
             // Try to merg 2
+            // Merge 3
             Assert.IsTrue(1 == 1);
         }
 
