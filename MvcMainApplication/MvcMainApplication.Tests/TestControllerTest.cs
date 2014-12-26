@@ -68,7 +68,7 @@ namespace MvcMainApplication.Tests
         [TestMethod]
         public void IndexTest()
         {
-            //Merge 3
+            //Cannot!!!
             Assert.IsTrue(1 == 1);
         }
 
