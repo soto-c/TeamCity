@@ -6,8 +6,8 @@ using System.Web.Mvc;
 
 namespace MvcMainApplication.Tests
 {
-    
-    
+
+
     /// <summary>
     ///This is a test class for TestControllerTest and is intended
     ///to contain all TestControllerTest Unit Tests
@@ -67,15 +67,20 @@ namespace MvcMainApplication.Tests
 
         [TestMethod]
         public void IndexTest()
-        {//ee
-<<<<<<< HEAD
-            //Tape
-=======
-            //SotoComment    222
-            // Assert.Fail("REQ1");
->>>>>>> master
+        {
+            //Test new filter +:*(works ok) branch is identifiead as Soto
+            //Add AutoMerge
+            // new Stuff
+            // new Stuff2
+            // new Stuff3       
+            // new Stuff4
+            // Try no built master  
 
-            //hello
+<<<<<<< HEAD
+            //Soto's comment
+=======
+            //Tapes Comment
+>>>>>>> origin/master
             Assert.IsTrue(1 == 1);
         }
 
