@@ -72,7 +72,7 @@ namespace MvcMainApplication.Tests
             //Add AutoMerge
             // try for filter spec
             // create a feature
-
+            //2nd commit
               Assert.IsTrue(1 == 1);
         }
 
