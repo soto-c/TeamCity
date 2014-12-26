@@ -71,7 +71,7 @@ namespace MvcMainApplication.Tests
             //Test new filter +:*(works ok) branch is identifiead as Soto
             //Add AutoMerge
             // try for filter spec
-
+            // create a feature
 
               Assert.IsTrue(1 == 1);
         }
