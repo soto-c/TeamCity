@@ -68,7 +68,8 @@ namespace MvcMainApplication.Tests
         [TestMethod]
         public void IndexTest()
         {
-            //Test new filter +:*
+            //Test new filter +:*(works ok) branch is identifiead as Soto
+            //Add AutoMerge
             Assert.IsTrue(1 == 1);
         }
 
