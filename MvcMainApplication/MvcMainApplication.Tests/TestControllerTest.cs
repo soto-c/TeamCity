@@ -67,11 +67,8 @@ namespace MvcMainApplication.Tests
 
         [TestMethod]
         public void IndexTest()
-        {//ee
-            //SotoComment    222
-            // Assert.Fail("REQ1");
-
-            //hello
+        {
+            //Try to merge
             Assert.IsTrue(1 == 1);
         }
 
