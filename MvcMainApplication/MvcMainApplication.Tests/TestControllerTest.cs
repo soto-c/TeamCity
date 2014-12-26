@@ -68,7 +68,7 @@ namespace MvcMainApplication.Tests
         [TestMethod]
         public void IndexTest()
         {
-            //Test new filter +:refs/heads/RemoteRuns/*
+            //Test new filter +:*
             Assert.IsTrue(1 == 1);
         }
 
