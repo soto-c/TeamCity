@@ -74,6 +74,7 @@ namespace MvcMainApplication.Tests
             // new Stuff2
             // new Stuff3    
             // new Stuff4
+            // Try no built master
             Assert.IsTrue(1 == 1);
         }
 
