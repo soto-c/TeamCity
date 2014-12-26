@@ -74,7 +74,7 @@ namespace MvcMainApplication.Tests
             // oesdfuiiopsda
             // MyFeature1 implemented
             // MyFeature2 implemented...i forgot something!!!
-            // aAdd shit
+            // aAdd shit try more
             Assert.IsTrue(1 == 1);
         }
 
