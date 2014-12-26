@@ -6,8 +6,8 @@ using System.Web.Mvc;
 
 namespace MvcMainApplication.Tests
 {
-
-
+    
+    
     /// <summary>
     ///This is a test class for TestControllerTest and is intended
     ///to contain all TestControllerTest Unit Tests
@@ -67,8 +67,15 @@ namespace MvcMainApplication.Tests
 
         [TestMethod]
         public void IndexTest()
-        {
-            //Try to merge
+        {//ee
+<<<<<<< HEAD
+            //Tape
+=======
+            //SotoComment    222
+            // Assert.Fail("REQ1");
+>>>>>>> master
+
+            //hello
             Assert.IsTrue(1 == 1);
         }
 
