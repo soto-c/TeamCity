@@ -69,6 +69,7 @@ namespace MvcMainApplication.Tests
         public void IndexTest()
         {
             //Try to merge
+            // Try to merg 2
             Assert.IsTrue(1 == 1);
         }
 
