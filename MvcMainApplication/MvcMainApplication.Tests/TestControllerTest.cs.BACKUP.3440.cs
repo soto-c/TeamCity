@@ -68,10 +68,13 @@ namespace MvcMainApplication.Tests
         [TestMethod]
         public void IndexTest()
         {//ee
+<<<<<<< HEAD
+            Assert.Fail("Test failed!");
+=======
             //SotoComment    222
-            // Assert.Fail("REQ1");
+            /// Assert.Fail("REQ1");
+>>>>>>> origin/RemoteRuns/Soto
 
-            //hello
             Assert.IsTrue(1 == 1);
         }
 
