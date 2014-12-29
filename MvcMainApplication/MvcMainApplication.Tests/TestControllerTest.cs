@@ -68,17 +68,10 @@ namespace MvcMainApplication.Tests
         [TestMethod]
         public void IndexTest()
         {
-            //Test new filter +:*(works ok) branch is identifiead as Soto
-            //Add AutoMerge
-            // try for filter spec
-            // create a feature
-            //2nd commit
-
-            // create a feature2
-            //1st commit
-            //2nd commit
-           // Parenthesis! 
-            // one More
+            //Test trigger filter +:Soto* dddd
+            // Add comment buid +:comment=TeamCityBuild:**
+            // Test comment TeamCityBuild
+            //refs/heads/Soto  ww  
               Assert.IsTrue(1 == 1);
         }
 
