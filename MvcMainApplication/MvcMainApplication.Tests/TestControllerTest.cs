@@ -68,7 +68,7 @@ namespace MvcMainApplication.Tests
         [TestMethod]
         public void IndexTest()
         {
-            //Test trigger filter +:Soto*
+            //Test trigger filter +:Soto* ddd
             // Add comment buid +:comment=[Build]:**
             //refs/heads/Soto  
               Assert.IsTrue(1 == 1);
