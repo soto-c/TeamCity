@@ -71,7 +71,7 @@ namespace MvcMainApplication.Tests
             //Test trigger filter +:Soto* dddd
             // Add comment buid +:comment=TeamCityBuild:**
             // Test comment TeamCityBuild
-            //refs/heads/Soto  ww
+            //refs/heads/Soto  ww  
               Assert.IsTrue(1 == 1);
         }
 
