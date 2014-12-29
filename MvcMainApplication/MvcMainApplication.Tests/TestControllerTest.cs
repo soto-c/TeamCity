@@ -69,7 +69,8 @@ namespace MvcMainApplication.Tests
         public void IndexTest()
         {
             //Test trigger filter +:Soto*
-            // Add comment buid
+            // Add comment buid +:comment=[Build]:**
+
               Assert.IsTrue(1 == 1);
         }
 
