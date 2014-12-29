@@ -69,7 +69,7 @@ namespace MvcMainApplication.Tests
         public void IndexTest()
         {
             //Test trigger filter +:Soto*
-
+            // Add comment buid
               Assert.IsTrue(1 == 1);
         }
 
