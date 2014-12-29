@@ -69,7 +69,7 @@ namespace MvcMainApplication.Tests
         public void IndexTest()
         {
             //Test trigger filter +:Soto* dddd
-            // Add comment buid +:comment=TeamCityBuild:**
+            // Add comment buid +:comment=TeamCityBuild:**ddd
             //refs/heads/Soto  ww
               Assert.IsTrue(1 == 1);
         }
