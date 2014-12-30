@@ -76,6 +76,7 @@ namespace MvcMainApplication.Tests
             // 2nd commit 
             // final commit 
             // final commit2 
+            // this is a new commit
               Assert.IsTrue(1 == 1);
         }
 
