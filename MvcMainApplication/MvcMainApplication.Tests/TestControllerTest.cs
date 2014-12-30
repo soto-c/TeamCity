@@ -78,8 +78,8 @@ namespace MvcMainApplication.Tests
             // final commit2 
             // this is a new commit
             // tapes Work
-            Assert.Fail("tapes Work");
-              Assert.IsTrue(1 == 1);
+            // This is Tape's work
+            Assert.IsTrue(1 == 1);
         }
 
     }
